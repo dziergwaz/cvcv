@@ -43,3 +43,12 @@ h4 {
   color: #674188;
   font-size: 100%;
 }
+
+.image {
+  background-color: #FFFBF5;
+  box-shadow: 0 0 20px 10px #C3ACD0;
+}
+
+.profile {
+  border-radius: 100%;
+}
