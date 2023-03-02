@@ -1,0 +1,45 @@
+body {
+  background-color: #FFFBF5;
+}
+
+hr {
+  background-color: #C3ACD0;
+  height: 3px;
+  width: 80%;
+  border-style: ridge;
+}
+
+table {
+  table-layout: fixed;
+
+}
+
+aside {
+  width: 40%;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 20px 0 20px -20px #674188;
+  font-style: italic;
+  color: #674188;
+}
+
+aside>p {
+  margin: 0.5rem;
+}
+
+a {
+  font-style: italic;
+  color: #C3ACD0;
+  margin-right: 2em;
+}
+
+h3 {
+  color: #674188;
+  font-size: 1.4em;
+}
+
+h4 {
+  color: #674188;
+  font-size: 100%;
+}
